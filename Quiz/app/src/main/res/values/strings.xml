@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+
+    <string name="q_android">Najnowsza(na rok 2022) wersja android to wersja 3</string>
+    <string name="q_pb">Politechnika Białostocka to najlepsza politechnika w Białymstoku</string>
+    <string name="q_apple">iOS to najlepszy system mobilny</string>
+    <string name="q_debil">Student debil</string>
+    <string name="q_mobilki">Student debil zda systemy mobilne</string>
+</resources>
